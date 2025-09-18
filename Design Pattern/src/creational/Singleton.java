@@ -1,4 +1,4 @@
-package com;
+package creational;
 
 public class Singleton {
 
